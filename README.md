@@ -1,4 +1,4 @@
-# VRS
+# VRS - cvicenie 2
 
 Dobry den,
 
